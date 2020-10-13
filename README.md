@@ -8,8 +8,8 @@
 ✍️ &nbsp;In my free time, I pursue Sports and Gaming as my favorites hobbies.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, job offer or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at leonardojesus02@outlook.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/leonardojesus02/) for more details about me. I'm open to connection, feedback and suggestions!&nbsp;
-&nbsp;
+📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/leonardojesus02/) for more details about me. I'm open to connection, feedback and suggestions! \
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
