@@ -43,5 +43,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/leonardojesus02"><img src="https://img.shields.io/badge/-Leonardo%20Jesus%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:leonardojesus02@outlook.com"><img src="https://img.shields.io/badge/-Leonardo%20Jesus?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:leonardojesus02@outlook.com"><img src="https://img.shields.io/badge/-Leonardo%20Jesus-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
