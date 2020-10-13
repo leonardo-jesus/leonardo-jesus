@@ -1,5 +1,4 @@
 ## 👋 &nbsp;Hello World! I'm Leonardo Jesus
-<br />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
