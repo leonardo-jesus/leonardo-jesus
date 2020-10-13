@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Leonardo Jesus
+## 👋 &nbsp;Hello World! I'm Leonardo Jesus
 <br />
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -31,6 +31,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+<br />
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -40,6 +41,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leonardo-jesus&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
+<br />
 
 ### 🤝🏻 &nbsp;Connect with Me
 
