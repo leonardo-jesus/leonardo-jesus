@@ -1,6 +1,6 @@
 ## 👋 &nbsp;Hello World! I'm Leonardo Jesus
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying a lot of NodeJS, ReactJS and Typescript.\
