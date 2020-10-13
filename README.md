@@ -1,5 +1,5 @@
 ## 👋 &nbsp;Hey there! I'm Leonardo Jesus
-<br /><br />
+<br />
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
