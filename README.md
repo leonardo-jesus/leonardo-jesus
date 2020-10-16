@@ -18,8 +18,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)\
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)&nbsp;
+![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)\
 ![Vue.JS](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)&nbsp;
 ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
