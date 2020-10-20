@@ -15,9 +15,9 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)\
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)&nbsp;
 ![Vue.JS](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)&nbsp;
