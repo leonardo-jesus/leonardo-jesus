@@ -42,7 +42,7 @@
 
 <p align="center">
 <a href="https://github.com/leonardo-jesus">
-  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonardo-jesus&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49%" margin-right="20px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonardo-jesus&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leonardo-jesus&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
